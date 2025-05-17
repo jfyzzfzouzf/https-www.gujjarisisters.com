@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gujjari Sisters</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #fff8f8; color: #333; }
+    header { background: #a020f0; color: white; padding: 20px 0; text-align: center; }
+    nav { background: #eee; padding: 10px; text-align: center; }
+    nav a { margin: 0 15px; text-decoration: none; color: #a020f0; font-weight: bold; }
+    section { padding: 30px 20px; max-width: 960px; margin: auto; }
+    h2 { color: #a020f0; }
+    .gallery img { width: 150px; margin: 10px; border: 3px solid #a020f0; border-radius: 8px; }
+    .testimonials, .contact-form { background: #f7eaff; padding: 20px; border-radius: 10px; margin-top: 20px; }
+    footer { background: #333; color: #eee; text-align: center; padding: 15px; margin-top: 30px; }
+    input, textarea { width: 100%; padding: 10px; margin: 8px 0; border-radius: 5px; border: 1px solid #ccc; }
+    button { background: #a020f0; color: white; border: none; padding: 12px 20px; border-radius: 5px; cursor: pointer; }
+    button:hover { background: #7a1bb9; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gujjari Sisters</h1>
+    <p>The World Colourful Clothes</p>
+  </header>  <nav>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to Gujjari Sisters — your one-stop shop for colourful towels, warm blankets, soft kerchiefs, and premium old-age cotton sarees. We bring you quality products with love and care.</p>
+  </section>  <section id="products">
+    <h2>Our Collections</h2>
+    <div class="gallery">
+      <img src="product1.jpg" alt="Towel">
+      <img src="product2.jpg" alt="Blanket">
+      <img src="product3.jpg" alt="Kerchief">
+      <img src="product4.jpg" alt="Cotton Saree">
+    </div>
+  </section>  <section id="testimonials" class="testimonials">
+    <h2>Customer Feedback</h2>
+    <p><em>"Best quality towels I've bought. Lovely shades
